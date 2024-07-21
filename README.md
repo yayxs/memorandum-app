@@ -18,6 +18,9 @@ As a front-end programmer, I'm using
 - [anytype the everything app](https://anytype.io/)
 - [AFFiNE Write,Draw,Plan,All at Once.With AI.](https://affine.pro/)
 
+## Tool
+- [Everything 基于名称快速定位文件和文件夹](https://www.voidtools.com/zh-cn/)
+
 ## Additional
 You can also take a look
 
