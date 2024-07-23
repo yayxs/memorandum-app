@@ -7,6 +7,7 @@ As a front-end programmer, I'm using
 ## AI search
 
 - [最懂程序员的新一代 AI 搜索引擎 https://devv.ai/zh](https://devv.ai/zh)
+- [https://www.perplexity.ai/](https://www.perplexity.ai/)
 
 ## chrome://extensions/
 
